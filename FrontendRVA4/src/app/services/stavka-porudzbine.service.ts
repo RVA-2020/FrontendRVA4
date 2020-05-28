@@ -12,7 +12,7 @@ export class StavkaPorudzbineService {
   // private readonly API_URL = 'http://localhost:8083/stavkaPorudzbine/';
   // private readonly API_URL_BYID = 'http://localhost:8083/stavkeZaPorudzbinaId/';
 
-  // End Point u Deployment mode-u
+  // End Point u Deployment modeu
   private readonly API_URL = 'https://backend-rva.herokuapp.com/stavkaPorudzbine/';
   private readonly API_URL_BYID = 'https://backend-rva.herokuapp.com/stavkeZaPorudzbinaId/';
 
